@@ -7,14 +7,6 @@
     "start": "node src/sovereignCore.js",
     "test": "jest"
   },
-  "keywords": [
-    "sovereign",
-    "blockchain",
-    "compliance",
-    "treasury",
-    "SDG",
-    "Egypt"
-  ],
   "author": "Ayman Seif",
   "license": "PolyFormNC+TESL",
   "dependencies": {
