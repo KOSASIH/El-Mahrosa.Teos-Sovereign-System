@@ -38,5 +38,3 @@ The history of TEOS Egypt is a mythic arc, ritualizing every repository mileston
 - **Sovereign Policy:** TEOS Egypt Sovereign License (TESL)
 
 ⚠️ Commercial/government use requires written permission from Ayman Seif / Elmahrosa International.
-
-Would you like me to also prepare a **visual legend** section under the diagram (explaining what each color means: green = core, blue = modules, gold = audit, purple = UI) so contributors can interpret it instantly?
