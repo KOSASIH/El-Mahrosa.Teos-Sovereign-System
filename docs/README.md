@@ -168,6 +168,12 @@ Built with **Rust 🦀 + Solana**, the system blends Egyptian heritage with comp
 ---
 
 ### 🗂 Repository Structure
+### 🗂 Repository Structure
+
+
+education/ Civic learning UI contracts/ Solana Anchor programs api/ Backend services sdk/ Integration SDKs
+
+
 ## ✨ Features
 - **Compliance enforcement:** DCO, immutable releases, governance labeling  
 - **SDG alignment:** Map modules to UN SDGs for civic transparency  
