@@ -1,109 +1,12 @@
-# Dual License: El-Mahrosa Sovereign System
+## ⚖️ License & Governance
+This repository is governed under a **dual-license model**:
 
-The **El-Mahrosa Sovereign System** is licensed under a **dual-license model**:
-1. **PolyForm Noncommercial 1.0.0** — For open civic use.  
-2. **TEOS Egypt Sovereign License (TESL)** — Commercial rights reserved for **Elmahrosa International / TEOS Egypt**.
+1. **PolyForm Noncommercial 1.0.0** — noncommercial usage only
+2. **TEOS Egypt Sovereign License (TESL)** — sovereign overlay & commercial rights reserved
 
----
+TESL full terms: [TESL.md](https://github.com/Elmahrosa/Teos-Pharaoh-Portal/blob/main/TESL.md)
 
-## 1. PolyForm Noncommercial 1.0.0
+> Commercial or governmental usage requires explicit written permission from **Ayman Seif / Elmahrosa International**.
 
-### Full License Text
-For the official PolyForm Noncommercial 1.0.0 license text, see:  
-[https://polyformproject.org/licenses/noncommercial/1.0.0/](https://polyformproject.org/licenses/noncommercial/1.0.0/)
-
-```
-PolyForm Noncommercial License 1.0.0
-
-**Acceptance**
-By exercising any rights under this license, You accept and agree to be bound by its terms.
-
-**Definitions**
-- "You" means any person or entity exercising rights under this license.
-- "Source Code" means the preferred form of the software for making modifications to it.
-- "Object Code" means any form of the software that is not Source Code.
-- "Contributor" means any person or entity that creates or contributes to the creation of the software.
-- "Commercial Use" means use of the software for, or in support of, commercial activities, including but not limited to: production use, internal business use, sale, marketing, advertising, consulting, or any activity that generates revenue or commercial advantage.
-
-**Permissions**
-- You may use, modify, and distribute the software in Source Code and Object Code form only for non-commercial purposes.
-- You may distribute the software under the terms of this license or a different open-source license, provided that the new license does not permit Commercial Use.
-
-**Restrictions**
-- You may not use the software for Commercial Use.
-- You may not sublicense or transfer any rights in the software except as expressly permitted by this license.
-- You may not use the software in any way that violates applicable laws or regulations.
-
-**Notices**
-- You must retain all copyright, patent, trademark, and attribution notices in the Source Code.
-- You must include a copy of this license in any distribution of the Source Code or Object Code.
-
-**Termination**
-This license terminates automatically if You fail to comply with its terms.
-
-**Disclaimer of Warranty**
-THE SOFTWARE IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND. THE CONTRIBUTORS DISCLAIM ALL WARRANTIES, EXPRESS, IMPLIED, OR STATUTORY, INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
-
-**Limitation of Liability**
-IN NO EVENT SHALL THE CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES ARISING OUT OF OR IN ANY WAY RELATED TO THE SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-```
-
----
-
-## 2. TEOS Egypt Sovereign License (TESL)
-
-### Full License Text
-For the full TEOS Egypt Sovereign License (TESL), see:  
-[https://github.com/Elmahrosa/Teos-Pharaoh-Portal/blob/main/TESL.md](https://github.com/Elmahrosa/Teos-Pharaoh-Portal/blob/main/TESL.md)
-
-```
-TEOS Egypt Sovereign License (TESL)
-Version 1.0
-© 2025 Elmahrosa International / TEOS Egypt
-
-**1. Grant of License**
-Elmahrosa International ("Licensor") grants you ("Licensee") a non-exclusive, non-transferable license to use, modify, and distribute the El-Mahrosa Sovereign System software ("Software") only under the following conditions:
-
-- Commercial Use: Licensee may use the Software for commercial purposes only with prior written permission from Elmahrosa International or TEOS Egypt.
-- Government Use: Use by any government entity or for government projects requires explicit written permission from Elmahrosa International.
-- Sovereign Control: The Licensor retains full authority over the Software's sovereign infrastructure, including but not limited to compliance, governance, and licensing rules.
-
-**2. Restrictions**
-- You may not use, copy, modify, or distribute the Software for any purpose other than those expressly permitted by this license.
-- You may not reverse engineer, decompile, or disassemble the Software.
-- You may not remove or alter any copyright, trademark, or proprietary notices in the Software.
-
-**3. Ownership**
-The Software and all intellectual property rights therein are and shall remain the exclusive property of Elmahrosa International.
-
-**4. Termination**
-This license terminates immediately if Licensee breaches any of its terms. Upon termination, Licensee must cease all use of the Software and destroy all copies in its possession.
-
-**5. Disclaimer of Warranty**
-THE SOFTWARE IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND. LICENSOR DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
-
-**6. Limitation of Liability**
-IN NO EVENT SHALL LICENSOR BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES ARISING OUT OF OR IN ANY WAY RELATED TO THE SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-
-**7. Governing Law**
-This license is governed by the laws of Egypt. Any disputes shall be resolved in the courts of Cairo, Egypt.
-
-**8. Contact for Commercial/Government Use**
-For commercial or government use, please contact:
-Ayman Seif  
-Founder, Elmahrosa International / TEOS Egypt  
-Email: ayman@tesoegypt.com
-```
-
----
-
-## 📌 Important Notice
-
-- **Commercial/Government Use**: Requires written permission from **Ayman Seif / Elmahrosa International**.  
-- **Open Civic Use**: Permitted under **PolyForm Noncommercial 1.0.0**.  
-- **Sovereign Authority**: Elmahrosa International retains all rights to the sovereign infrastructure and licensing authority.
-
-For inquiries, contact: [ayman@tesoegypt.com](mailto:ayman@tesoegypt.com)
-```
-
----
+![License: PolyForm NC + TESL](https://img.shields.io/badge/License-PolyFormNC%20%2B%20TESL-gold)
+![Status: Active](https://img.shields.io/badge/status-Active-blue?style=for-the-badge)
