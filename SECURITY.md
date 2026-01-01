@@ -1,43 +1,51 @@
-# Security Policy
+# 🛡 Security Policy — El-Mahrosa Sovereign System
 
-Report vulnerabilities to:  
-📧 security@teosegypt.com
+The security and integrity of this **sovereign-grade infrastructure** are paramount.  
+All reports are handled with urgency, confidentiality, and full compliance under TESL governance.
 
-Do not open public issues for sensitive disclosures.  
-Final decisions follow TESL governance.
-# 🛡 Security Policy for El-Mahrosa Sovereign System
+---
 
-The security and integrity of this sovereign-grade system are paramount. We take all security reports seriously.
+## 🚨 Reporting Vulnerabilities
 
-## 🚨 Reporting a Vulnerability
+⚠️ **Do NOT** open public GitHub issues for security disclosures.  
+All vulnerability reports must be submitted privately to the core team:
 
-**DO NOT** open a public GitHub issue for security vulnerabilities.
+- 📧 Email: security@teosegypt.com  
+- 🔐 Encrypted Channel: [PGP Key / Secure Contact Form — insert link]  
+- 📞 Phone (urgent cases): +20 100 616 7293  
 
-All security reports must be submitted privately to the core team:
+We commit to:
+- Acknowledging all reports within **48 hours**  
+- Providing a validated response within **7 days**  
+- Coordinating patch releases and advisories transparently
 
-*   **Email:** security@elmahrosa.eg
-*   **Encrypted Channel:** [Insert Link to PGP Key or Secure Contact Form]
+---
 
-We commit to acknowledging all reports within 48 hours and providing a full response within 7 days.
+## 📦 Supported Versions
 
-## 🏛 Compliance and Audits
+| Branch | Status        |
+|--------|---------------|
+| `main` | ✅ Supported  |
+| `dev`  | ⚠️ Testing only |
 
-This repository is part of the **TEOS Egypt Compliance Kit**. We maintain audit-ready workflows and logs. Regular external security audits are performed on the core modules.
-# 🛡 Security Policy for El-Mahrosa Sovereign System
+---
 
-The security and integrity of this sovereign-grade system are paramount. We take all security reports seriously.
+## 🔄 Disclosure Process
 
-## 🚨 Reporting a Vulnerability
+1. Submit report privately via secure channel  
+2. Founder review & validation  
+3. Patch release through CI/CD pipelines  
+4. Public advisory issued under TESL governance  
 
-**DO NOT** open a public GitHub issue for security vulnerabilities.
+---
 
-All security reports must be submitted privately to the core team:
+## 🏛 Compliance & Audits
 
-*   **Email:** security@elmahrosa.eg
-*   **Encrypted Channel:** [Insert Link to PGP Key or Secure Contact Form]
+This repository is part of the **TEOS Egypt Compliance Kit**.  
+- Audit‑ready workflows and immutable logs are maintained continuously  
+- Regular external audits are performed on all core modules  
+- Security enforcement aligns with **Egyptian Sovereign Law** and **International Standards**
 
-We commit to acknowledging all reports within 48 hours and providing a full response within 7 days.
+---
 
-## 🏛 Compliance and Audits
-
-This repository is part of the **TEOS Egypt Compliance Kit**. We maintain audit-ready workflows and logs. Regular external security audits are performed on the core modules.
+**Made with pride in Egypt 🇪🇬 — for civic trust and digital sovereignty.**
