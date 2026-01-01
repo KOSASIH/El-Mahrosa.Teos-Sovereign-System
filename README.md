@@ -5,14 +5,26 @@
 TEOS Egypt is engineered as **Egypt’s sovereign digital backbone**, aligned with **Egypt Vision 2030** and the **United Nations Sustainable Development Goals (SDGs)**.  
 Each module represents a **verifiable milestone** in building trusted civic Digital Public Infrastructure (DPI), designed for **banks, regulators, and governments** to adopt with confidence.
 
-![Compliance](https://img.shields.io/badge/Compliance-Strict-blue)  
-![Audit](https://img.shields.io/badge/Audit-Ready-green)  
-![SDG](https://img.shields.io/badge/UN_SDG-Aligned-gold)  
-![License](https://img.shields.io/badge/License-TESL_&_PolyForm-lightgrey)  
-![Security](https://img.shields.io/badge/Security-Audit_Ready-critical)  
-![MultiChain](https://img.shields.io/badge/MultiChain-Interoperable-purple)
+![Compliance](https://img.shields.io/badge/Compliance-Strict-blue)  ![Audit](https://img.shields.io/badge/Audit-Ready-green)  ![SDG](https://img.shields.io/badge/UN_SDG-Aligned-gold)  ![License](https://img.shields.io/badge/License-TESL_&_PolyForm-lightgrey)  
+![Security](https://img.shields.io/badge/Security-Audit_Ready-critical)![MultiChain](https://img.shields.io/badge/MultiChain-Interoperable-purple)
 
 ---
+
+## 🧱 Architecture & Core Modules
+
+```
+El-Mahrosa.Teos-Sovereign-System/
+├─ .github/        # CI/CD & audit pipelines
+├─ assets/         # Sovereign UI assets & brand visuals
+├─ bin/            # Executable CLI tools & scripts
+├─ configs/        # Sovereign deployment configs (ignored)
+├─ contracts/      # Smart contracts (Solana Anchor / Rust)
+├─ docs/           # Architecture, policies, API refs
+├─ src/            # Governance logic & DPI modules
+├─ tests/          # Compliance & integrity validation
+├─ SECURITY.md     # Responsible disclosure policy
+└─ LICENSE         # Dual sovereign licensing
+```
 
 ## 🧠 Framework Overview
 
