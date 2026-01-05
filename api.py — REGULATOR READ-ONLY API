@@ -1,0 +1,33 @@
+from fastapi import FastAPI, HTTPException
+from .audit_log import AuditLog
+from .merkle_tree import MerkleTree
+from .root_registry import MerkleRootRegistry
+
+app = FastAPI(
+    title="TEOS Merkle Root Audit Proof API",
+    description="Read-only, regulator-grade audit verification interface",
+    version="1.0.0-frozen",
+)
+
+AUDIT_LOG = AuditLog()
+ROOTS = MerkleRootRegistry()
+
+
+@app.get("/regulator/merkle/root")
+def get_current_merkle_root():
+    if len(AUDIT_LOG) == 0:
+        raise HTTPException(status_code=404, detail="No audit events recorded")
+
+    tree = MerkleTree(AUDIT_LOG.all_event_hashes())
+    return {
+        "merkle_root": tree.root,
+        "events": len(AUDIT_LOG),
+    }
+
+
+@app.get("/regulator/merkle/root/{root}")
+def get_root_metadata(root: str):
+    meta = ROOTS.get(root)
+    if not meta:
+        raise HTTPException(status_code=404, detail="Root not found")
+    return meta

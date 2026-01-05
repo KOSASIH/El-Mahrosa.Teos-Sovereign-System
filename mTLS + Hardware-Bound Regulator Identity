@@ -1,0 +1,12 @@
+Regulator Device (TPM / HSM)
+ ├─ Client Certificate (X.509)
+ ├─ Private Key (NON-EXPORTABLE)
+ └─ Hardware ID (TPM / Secure Enclave)
+
+        ⇅ mTLS
+
+API Gateway / FastAPI
+ ├─ Verify Client Cert
+ ├─ Verify CA Trust
+ ├─ Bind Cert → Hardware ID
+ └─ Grant READ-ONLY access

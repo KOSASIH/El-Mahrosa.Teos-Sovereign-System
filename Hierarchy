@@ -1,0 +1,3 @@
+Root CA (Offline)
+ └─ Regulator Intermediate CA
+     └─ Regulator Device Certificate (per device)

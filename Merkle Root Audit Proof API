@@ -1,0 +1,11 @@
+src/governance/sovereign_compliance_engine/merkle_audit/
+
+merkle_audit/
+├── __init__.py
+├── merkle_tree.py          # Deterministic Merkle Tree
+├── audit_event.py          # Canonical audit event model
+├── audit_log.py            # Append-only audit log
+├── merkle_proof.py         # Proof generation & verification
+├── root_registry.py        # Root anchoring (local / external)
+├── api.py                  # Regulator Read-Only API
+└── README.md               # Legal & technical explanation
